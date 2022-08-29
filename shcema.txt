@@ -1,0 +1,17 @@
+{
+	"PM1":4294967295,
+	"PM2":4294967295,
+	"PM10":4294967295,
+	"Gas":1000,
+	"Temperature":50,
+	"Humidity":90,
+	"Year":9999,
+	"Month":12,
+	"Date":31,
+	"Hours":23,
+	"Minutes":59,
+	"location":{
+		"type":"Point",
+		"coordinates":[180,180]
+	}
+}
